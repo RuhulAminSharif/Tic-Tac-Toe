@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 This project is done to design and implement a graphical user interface (GUI) version of the tic-tac-toe game that allows two players to play against each other.
 
-Features : 
+**Features :** 
 1. The game consist of a 3x3 grid displayed using Java Graphics.  
 2. The players are able to click on an empty cell of the grid to place their marks (X or O).  
 3. The game checks for a winner after each move, and if there is a winner, the game displays a message indicating which player won.  
